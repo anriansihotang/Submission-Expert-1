@@ -6,9 +6,9 @@ Fitur yang harus ada pada aplikasi:
 Syarat:
 * Menampilkan nama aplikasi atau brand logo dari aplikasi katalog restoran (tentukan sendiri nama aplikasi atau brand logonya).
 * Terdapat navigation menu:
-- Home → mengarah ke root domain.
-- Favorite → target URL cukup bernilai “#” (Sebagai placeholder untuk digunakan pada submission selanjutnya).
-- About Us → arahkan ke profil LinkedIn/Github/Social Media Anda, atau boleh juga ke personal web/blog.
+  - Home → mengarah ke root domain.
+  - Favorite → target URL cukup bernilai “#” (Sebagai placeholder untuk digunakan pada submission selanjutnya).
+  - About Us → arahkan ke profil LinkedIn/Github/Social Media Anda, atau boleh juga ke personal web/blog.
 * Terdapat fitur navigation drawer yang berfungsi dengan baik bila diakses pada layar seluler.
 2.Hero Element (Jumbotron Element)
 Syarat:
