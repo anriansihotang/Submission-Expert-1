@@ -4,7 +4,7 @@ Fitur yang harus ada pada aplikasi:
 
 1. App Bar (Navigation Bar)
 Syarat:
-*Menampilkan nama aplikasi atau brand logo dari aplikasi katalog restoran (tentukan sendiri nama aplikasi atau brand logonya).
+* Menampilkan nama aplikasi atau brand logo dari aplikasi katalog restoran (tentukan sendiri nama aplikasi atau brand logonya).
 *Terdapat navigation menu:
 -Home → mengarah ke root domain.
 -Favorite → target URL cukup bernilai “#” (Sebagai placeholder untuk digunakan pada submission selanjutnya).
