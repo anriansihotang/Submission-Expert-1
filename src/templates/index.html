@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="application to search for restaurants">
+    <title>Laper Apps</title>
+    <script src="https://kit.fontawesome.com/020c721d53.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <a href="#main" class="skip-link">Menuju konten</a>
+    <!--* navigasi mobile *-->
+    <div class="menumob">
+        <button class="iconmenu" id="menu"><i class="fa-solid fa-bars"></i></button>
+        <div class="logomob">Laper Apps</div>
+    </div>
+    <nav id="drawer" class="navmob">
+        <ul class="navlistmob">
+            <li class="navitemsmob"><a href=""><i class="fa-solid fa-house"></i> Home</a></li>
+            <li class="navitemsmob"><a href="#"><i class="fa-solid fa-heart"></i> Favorite</a></li>
+            <li class="navitemsmob"><a target="_blank" href="https://github.com/anriansihotang"><i class="fa-solid fa-user"></i> About Us</a></li>
+        </ul>
+    </nav> 
+    <!--* navigasi dekstop *--> 
+    <nav class="nav">
+        <h1 class="logo">Laper Apps</h1>
+        <ul class="navdesk">
+            <li class="navitems"><a href=""><i class="fa-solid fa-house"></i> Home</a></li>
+            <li class="navitems"><a href="#"><i class="fa-solid fa-heart"></i> Favorite</a></li>
+            <li class="navitems"><a target="_blank" href="https://github.com/anriansihotang"><i class="fa-solid fa-user"></i> About Us</a></li>
+        </ul>
+    </nav>
+    <!--* Jumbotron *-->
+    <div class="hero" id="awal">
+        <div class="heroinner">
+            <h1 class="herotitle">Laper Apps</h1>
+            <p class="herosubtitle">Cari Restaurant Favorite Mu</p>
+        </div>
+    </div>
+    <!--* Content *-->
+    <main id="main">
+        <section class="content">
+            <div class="latest">
+                <h1 class="titlelist">List Restaurant </h1>
+                <div class="list" id="tes"></div>
+            </div>
+        </section>
+    </main>
+    <!--* Footer *-->
+    <footer>
+        <p><a href="#awal" class="back">Kembali ke Home <i class="fa-solid fa-up-long"></i></a></p>
+        <p>Copyright &copy <span id="tahun"></span> - Laper Apps</p>
+    </footer>
+</body>
+</html>
