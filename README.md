@@ -37,3 +37,9 @@ Syarat:
 * Dimensi touch target pada elemen yang diinteraksikan dengan touch harus memilliki ukuran minimal 44x44px. Adapun beberapa contoh elemen tersebut ialah button, anchor, input text, dan textarea.
 * Pastikan juga terdapat jarak antar elemen tersebut supaya dimensi touch target tidak menumpuk.
 * Menggunakan semantic element dalam menyusun struktur dan landmarking HTML.
+
+### Tampilan Dekstop
+![Tampilan dekstop](https://github.com/anriansihotang/Submission-Expert-1/blob/main/tampilan%20dekstop.png)
+
+### Tampilan Mobile
+![Tampilan Mobile](https://github.com/anriansihotang/Submission-Expert-1/blob/main/tampila%20mobile.png)
